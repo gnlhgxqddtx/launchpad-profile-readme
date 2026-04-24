@@ -143,4 +143,3 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-This is Xie Ziyu, a student of software engineering in SJTU.
